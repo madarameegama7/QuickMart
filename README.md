@@ -9,7 +9,7 @@ Open 2 terminals in VS Code.<br>
 In the first terminal, navigate to the backend directory, run npm install to install the necessary dependencies.
 
 Once the dependencies have been installed, run npm start to start the application
-<br>
+<br><br>
 In the second terminal, navigate to the frontend directory.
 Run npm install to install the necessary dependencies.
 Once the dependencies have been installed, run npm run dev.
